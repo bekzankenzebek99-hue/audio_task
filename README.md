@@ -25,3 +25,19 @@ Script:
 With just a short voice sample, AI can recreate a natural-sounding voice.
 This technology is useful for videos, audiobooks, and virtual assistants.
 Welcome to the future of digital voice!"
+
+# Wedding Invitation Video 🎬💍
+
+Кинематографиялық вертикаль видео-приглашение жасауға арналған дайын сюжет пен prompt.  
+Text-to-Video құралдарына (Pika Labs, Luma, т.б.) қолдануға болады.
+
+---
+
+## 📱 Видео форматы
+- Ұзақтығы: 12–15 секунд  
+- Формат: Vertical (9:16)  
+- Стиль: Cinematic / Reels  
+
+---
+
+## 🎥 Video Prompt (Russian)
